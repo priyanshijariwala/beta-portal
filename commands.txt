@@ -1,0 +1,7 @@
+git clone https://github.com/priyanshijariwala/beta-portal.git
+
+git config --global user.name "Priyanshi"
+git config --global user.email "priyanshi1jariwala@gmail.com"
+
+git config user.name "Priyanshi Jariwala"
+git config user.email "priyanshi.jariwala@gmail.com"
